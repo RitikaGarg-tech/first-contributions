@@ -353,6 +353,7 @@ Himanshu Dedha
 - [Dayakar Heeraakri](https://github.com/DayakarH)
 - [Hex Her](https://github.com/HerHex)
 - [Ayush Mishra](https://github.com/Beyonday008)
+- [Ritika Garg](https://github.com/RitikaGarg-tech)
 - [Sanskar Nougrahiya](https://github.com/sanskarn17)
 - [Piyush Agrawal](https://github.com/p1yu5h0)
 - [Maryll Castelino](https://github.com/Maryll-castelino)
